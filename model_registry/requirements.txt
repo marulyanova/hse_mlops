@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+asyncpg
+pydantic
+pydantic-settings
+pydantic[email]
+boto3
+python-multipart
