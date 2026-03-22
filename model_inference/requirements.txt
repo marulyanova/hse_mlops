@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+onnxruntime
+optimum[onnxruntime]
+requests
+torch
+transformers
+accelerate
+psutil
